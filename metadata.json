@@ -1,0 +1,6 @@
+
+{
+  "name": "CINE-ENGINE",
+  "description": "A Dual-Lens filmmaker's workstation using Gemini 3 Pro's 'Thinking' mode to model a Director's decision-making process and Gemini 3 Flash to calculate production risk.",
+  "requestFramePermissions": []
+}
